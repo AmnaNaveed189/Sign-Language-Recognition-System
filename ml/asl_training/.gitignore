@@ -1,0 +1,12 @@
+.venv310/
+venv310/
+venv/
+env/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.DS_Store
+asl_data/
